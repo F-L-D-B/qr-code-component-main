@@ -43,8 +43,9 @@ container {
 
 .qr-header {
   padding: 0 30px;
-  font-size: large;
+  font-size: 20px;
   text-align: center;
+  color: hsl(218, 44%, 22%);
   font-weight: 700;
 }
 
